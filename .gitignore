@@ -1,0 +1,6 @@
+gitlab
+.idea
+project.config.json
+node_modules/
+dist
+service/config.js
